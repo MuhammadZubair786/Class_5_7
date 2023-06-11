@@ -1,0 +1,25 @@
+ *{
+    padding: 0;
+    margin: 0;
+}
+h1,h2{
+    background-color: red;
+}
+p#test{
+    font-size: 100px;
+}
+/* div>li>a {
+    text-decoration: line-through;
+
+} */
+/* div li a{
+    text-decoration: line-through;
+} */
+
+p+a{
+    color: rgb(50, 184, 135);
+}
+
+p~a{
+    background-color: pink;
+}
